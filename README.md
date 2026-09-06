@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="./image/rock.png" alt="Rock" width="120" />
-  <img src="./image/paper.png" alt="Paper" width="120" />
-  <img src="./image/scissors.png" alt="Scissors" width="120" />
+  <img src="image/rock.png" alt="Rock" width="120" />
+  <img src="image/paper.png" alt="Paper" width="120" />
+  <img src="image/scissors.png" alt="Scissors" width="120" />
   
   <h1>Rock Paper Scissors Game</h1>
   <p>A classic, interactive browser-based game built with HTML, CSS, and vanilla JavaScript.</p>
